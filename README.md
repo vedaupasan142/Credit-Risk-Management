@@ -11,6 +11,14 @@ learning models are used to predict the default probability and can be able to s
 The scope of this project is limited to classifying and testing the defaulting conditions leading the credit
 risk. The scope of the study is to classify defaulters and non-defaulters in an efficient manner.
 
+Dataset: Open-source – Credit Risk Assessment
+( https://www.kaggle.com/datasets/laotse/credit-risk-dataset )
+
+The data presented here was collected from a bank for analyzing Credit Risk Assessment. It consists
+of 11 features and total of 32581 instances were collected and are currently stored in a CSV file.
+Each instance holds the information of person’s age, income, home ownership, loan amount, loan
+interest rate, loan status.
+
 Conclusion:
 
 Timely assessment of credit risk helps in decreasing non-performing assets which is the biggest
